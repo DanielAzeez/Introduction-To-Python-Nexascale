@@ -1,2 +1,2 @@
-# Introduction-To-Python-Nexascale-
+# Introduction-To-Python-Nexascale
 Nexascale's Python Hands-on Tasks
